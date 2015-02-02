@@ -23,6 +23,6 @@
     changed = green
     untracked = cyan
 [log]
-  date = relative
+    date = relative
 [format]
-  pretty = format:%h %C(yellow)%ad%Creset %an %Cgreen%s%Creset
+    pretty = format:%h %C(yellow)%ad%Creset %an %Cgreen%s%Creset
