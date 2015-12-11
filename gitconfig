@@ -26,3 +26,5 @@
     date = relative
 [format]
     pretty = format:%h %C(yellow)%ad%Creset %an %Cgreen%s%Creset
+[core]
+    editor = vim
